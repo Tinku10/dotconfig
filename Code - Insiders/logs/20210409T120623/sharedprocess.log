@@ -1,0 +1,19 @@
+[2021-04-09 12:07:06.730] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-04-09 12:17:27.889] [sharedprocess] [info] Installing extension: yzhang.markdown-all-in-one
+[2021-04-09 12:17:30.525] [sharedprocess] [info] Downloaded extension: yzhang.markdown-all-in-one /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/yzhang.markdown-all-in-one-3.4.0
+[2021-04-09 12:17:32.033] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.ab714570-5b63-43ef-ada8-909521218f2d: yzhang.markdown-all-in-one
+[2021-04-09 12:17:32.103] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/yzhang.markdown-all-in-one-3.4.0
+[2021-04-09 12:17:32.106] [sharedprocess] [info] Installation completed. yzhang.markdown-all-in-one
+[2021-04-09 12:17:32.162] [sharedprocess] [info] Extensions installed successfully: yzhang.markdown-all-in-one
+[2021-04-09 12:18:01.633] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-04-09 12:18:03.225] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/vscodevim.vim-1.19.3
+[2021-04-09 12:18:03.428] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.44a2cd29-5388-4929-b677-9a5d4679cc61: vscodevim.vim
+[2021-04-09 12:18:03.469] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/vscodevim.vim-1.19.3
+[2021-04-09 12:18:03.472] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-04-09 12:18:03.508] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-04-09 12:18:14.812] [sharedprocess] [info] Installing extension: sainnhe.gruvbox-material
+[2021-04-09 12:18:16.666] [sharedprocess] [info] Downloaded extension: sainnhe.gruvbox-material /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/sainnhe.gruvbox-material-6.3.9
+[2021-04-09 12:18:16.792] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.c1bf1a29-bb30-4d20-ba05-1f63b79544ce: sainnhe.gruvbox-material
+[2021-04-09 12:18:16.833] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/sainnhe.gruvbox-material-6.3.9
+[2021-04-09 12:18:16.835] [sharedprocess] [info] Installation completed. sainnhe.gruvbox-material
+[2021-04-09 12:18:16.867] [sharedprocess] [info] Extensions installed successfully: sainnhe.gruvbox-material

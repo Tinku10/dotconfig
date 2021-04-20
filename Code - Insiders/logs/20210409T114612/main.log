@@ -1,0 +1,6 @@
+[2021-04-09 11:46:13.075] [main] [info] update#setState idle
+[2021-04-09 11:46:43.079] [main] [info] update#setState checking for updates
+[2021-04-09 11:46:43.085] [main] [info] update#setState idle
+[2021-04-09 12:06:09.677] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?)). Details: Keys: __$__targetStorageMarker, editorFontInfo Length: 1917
+[2021-04-09 12:06:09.677] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?)). Details: Keys: __$__targetStorageMarker, lifecyle.lastShutdownReason Length: 556
+[2021-04-09 12:06:10.267] [main] [error] Error: ENOENT: no such file or directory, unlink '/home/tinku/.config/Code - Insiders/User/workspaceStorage/1617948974038/state.vscdb'
