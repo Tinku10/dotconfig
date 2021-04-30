@@ -2,3 +2,4 @@
 video/x-matroska=vlc.desktop;
 text/x-python=emacs.desktop;gvim.desktop;emacs-term.desktop;
 text/x-c++src=org.gnome.gedit.desktop;
+image/jpeg=shotwell-viewer.desktop;

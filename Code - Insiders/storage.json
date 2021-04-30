@@ -3,6 +3,15 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/tinku/.config/nvim"
+            },
+            {
+                "folderUri": "file:///home/tinku"
+            },
+            {
+                "folderUri": "file:///home/tinku/Downloads/muzix"
+            },
+            {
                 "folderUri": "file:///home/tinku/Downloads/Tinku10"
             }
         ]
@@ -51,7 +60,40 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/tinku/Downloads/Tinku10",
+                                        "fsPath": "/home/tinku/.config/nvim",
+                                        "external": "file:///home/tinku/.config/nvim",
+                                        "path": "/home/tinku/.config/nvim",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/nvim"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/tinku",
+                                        "path": "/home/tinku",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/tinku"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/tinku/Downloads/muzix",
+                                        "path": "/home/tinku/Downloads/muzix",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/muzix"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/tinku/Downloads/Tinku10",
                                         "path": "/home/tinku/Downloads/Tinku10",
                                         "scheme": "file"
@@ -549,7 +591,7 @@
                     {
                         "id": "editor.action.toggleWordWrap",
                         "label": "Toggle &&Word Wrap",
-                        "enabled": false
+                        "checked": true
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -584,8 +626,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -654,54 +695,45 @@
                                 },
                                 {
                                     "id": "workbench.action.focusThirdEditorGroup",
-                                    "label": "Group &&3",
-                                    "enabled": false
+                                    "label": "Group &&3"
                                 },
                                 {
                                     "id": "workbench.action.focusFourthEditorGroup",
-                                    "label": "Group &&4",
-                                    "enabled": false
+                                    "label": "Group &&4"
                                 },
                                 {
                                     "id": "workbench.action.focusFifthEditorGroup",
-                                    "label": "Group &&5",
-                                    "enabled": false
+                                    "label": "Group &&5"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusNextGroup",
-                                    "label": "&&Next Group",
-                                    "enabled": false
+                                    "label": "&&Next Group"
                                 },
                                 {
                                     "id": "workbench.action.focusPreviousGroup",
-                                    "label": "&&Previous Group",
-                                    "enabled": false
+                                    "label": "&&Previous Group"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusLeftGroup",
-                                    "label": "Group &&Left",
-                                    "enabled": false
+                                    "label": "Group &&Left"
                                 },
                                 {
                                     "id": "workbench.action.focusRightGroup",
-                                    "label": "Group &&Right",
-                                    "enabled": false
+                                    "label": "Group &&Right"
                                 },
                                 {
                                     "id": "workbench.action.focusAboveGroup",
-                                    "label": "Group &&Above",
-                                    "enabled": false
+                                    "label": "Group &&Above"
                                 },
                                 {
                                     "id": "workbench.action.focusBelowGroup",
-                                    "label": "Group &&Below",
-                                    "enabled": false
+                                    "label": "Group &&Below"
                                 }
                             ]
                         }
@@ -1466,8 +1498,8 @@
     "themeBackground": "#292828",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/tinku/Downloads/Tinku10",
-            "backupPath": "/home/tinku/.config/Code - Insiders/Backups/6062c79a9066f90fc2653b694b80b8e4",
+            "folder": "file:///home/tinku/.config/nvim",
+            "backupPath": "/home/tinku/.config/Code - Insiders/Backups/a78317761ef0fef631cded94e35b5f88",
             "uiState": {
                 "mode": 0,
                 "x": 168,

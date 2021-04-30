@@ -1,0 +1,46 @@
+[2021-04-28 20:09:20.141] [exthost] [info] extension host started
+[2021-04-28 20:09:20.213] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-04-28 20:09:20.213] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-04-28 20:09:20.596] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-28 20:09:20.596] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-04-28 20:09:20.620] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-28 20:09:20.620] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/git/dist/main
+[2021-04-28 20:09:20.685] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material {"startup":true,"extensionId":{"value":"sainnhe.gruvbox-material","_lower":"sainnhe.gruvbox-material"},"activationEvent":"*"}
+[2021-04-28 20:09:20.685] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tinku/.vscode-insiders/extensions/sainnhe.gruvbox-material-6.4.0/out/extension.js
+[2021-04-28 20:09:22.838] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-04-28 20:09:22.838] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tinku/.vscode-insiders/extensions/vscodevim.vim-1.20.1/out/extension
+[2021-04-28 20:09:23.859] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-28 20:09:23.859] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/github/dist/extension.js
+[2021-04-28 20:09:23.967] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-04-28 20:09:23.967] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-04-28 20:09:24.331] [exthost] [info] eager extensions activated
+[2021-04-28 20:09:24.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-04-28 20:09:24.369] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-04-28 20:09:24.377] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-04-28 20:09:24.377] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-04-28 20:09:24.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-04-28 20:09:24.379] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-04-28 20:09:24.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-04-28 20:09:24.528] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/github-authentication/dist/extension.js
+[2021-04-28 20:09:29.388] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1315
+[2021-04-28 20:09:43.793] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1315
+[2021-04-28 20:09:56.829] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1315
+[2021-04-28 20:10:01.951] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1315
+[2021-04-28 20:10:37.569] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-04-28 20:10:37.570] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-04-28 20:10:37.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-04-28 20:10:37.594] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-04-28 20:10:37.612] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-04-28 20:10:37.612] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2021-04-28 20:11:24.510] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tinku/.config/nvim/lua' is in submodule 'nvim'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-04-28 20:11:24.510] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tinku/.config/nvim/lua' is in submodule 'nvim'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-04-28 20:11:24.510] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tinku/.config/nvim/lua' is in submodule 'nvim'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-04-28 20:11:24.510] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tinku/.config/nvim/lua' is in submodule 'nvim'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-04-28 20:11:24.510] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tinku/.config/nvim/lua' is in submodule 'nvim'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-04-28 20:11:26.764] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tinku/.config/nvim/init.vm' is in submodule 'nvim'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-04-28 20:11:28.039] [exthost] [info] ExtensionService#_doActivateExtension sumneko.lua {"startup":false,"extensionId":{"value":"sumneko.lua","_lower":"sumneko.lua"},"activationEvent":"onLanguage:lua"}
+[2021-04-28 20:11:28.039] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tinku/.vscode-insiders/extensions/sumneko.lua-1.20.4/client/out/extension
+[2021-04-28 20:13:39.329] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.references-view {"startup":false,"extensionId":{"value":"ms-vscode.references-view","_lower":"ms-vscode.references-view"},"activationEvent":"onCommand:references-view.findReferences"}
+[2021-04-28 20:13:39.329] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/696/usr/share/code-insiders/resources/app/extensions/ms-vscode.references-view/dist/extension
+[2021-04-28 20:15:14.787] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-04-28 20:15:15.932] [exthost] [info] exiting with code 0

@@ -1,0 +1,67 @@
+[2021-04-28 19:58:54.262] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:58:54.696] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:58:55.862] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:58:57.234] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:58:58.874] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:58:59.980] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:59:01.305] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:59:02.641] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:59:05.003] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:59:06.453] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:59:07.758] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:59:09.082] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:59:13.869] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:59:19.122] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:59:20.204] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:59:21.236] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-04-28 19:59:22.254] [renderer1] [error] Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.: Error: Running the contributed command: '_vscode_delegate_cmd_ko1jyrja' failed.
+    at E._executeContributedCommand (/snap/code-insiders/696/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:108103)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

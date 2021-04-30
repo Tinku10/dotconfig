@@ -1,0 +1,5 @@
+[Info  - 10:01:36 pm] Angular language server process ID: 47775
+[Info  - 10:01:36 pm] Using typescript/lib/tsserverlibrary v4.1.5 from /home/tinku/.vscode-insiders/extensions/angular.ng-template-11.2.12/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 10:01:36 pm] Using @angular/language-service v11.2.11 from /home/tinku/.vscode-insiders/extensions/angular.ng-template-11.2.12/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 10:01:36 pm] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 10:02:06 pm] Enabling View Engine language service for /home/tinku/Downloads/muzix/tsconfig.json.

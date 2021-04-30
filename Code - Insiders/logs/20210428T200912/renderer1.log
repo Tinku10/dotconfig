@@ -1,0 +1,5 @@
+[2021-04-28 20:09:54.845] [renderer1] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/home/tinku/.local/share/webkitgtk/databases/indexeddb/v0" points to "/home/tinku/.local/share/webkitgtk/databases/indexeddb"
+[2021-04-28 20:10:00.488] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-04-28 20:10:00.491] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-04-28 20:11:25.526] [renderer1] [error] Git error
+[2021-04-28 20:11:27.767] [renderer1] [error] Git error
