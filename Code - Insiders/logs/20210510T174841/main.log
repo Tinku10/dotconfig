@@ -1,0 +1,6 @@
+[2021-05-10 17:48:41.587] [main] [info] update#setState idle
+[2021-05-10 17:48:46.546] [main] [error] file: Refused to load resource /snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/theme-seti/icons/seti.woff from file: protocol (original URL: file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/theme-seti/icons/seti.woff)
+[2021-05-10 17:49:11.592] [main] [info] update#setState checking for updates
+[2021-05-10 17:49:11.594] [main] [info] update#setState idle
+[2021-05-10 18:49:11.702] [main] [info] update#setState checking for updates
+[2021-05-10 18:49:11.709] [main] [info] update#setState idle

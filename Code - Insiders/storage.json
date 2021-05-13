@@ -3,6 +3,9 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/tinku/Documents/projects/profile"
+            },
+            {
                 "folderUri": "file:///home/tinku/.config/nvim"
             },
             {
@@ -44,7 +47,7 @@
                         "label": "Open Wor&&kspace..."
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.28",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -60,7 +63,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/tinku/.config/nvim",
+                                        "fsPath": "/home/tinku/Documents/projects/profile",
+                                        "external": "file:///home/tinku/Documents/projects/profile",
+                                        "path": "/home/tinku/Documents/projects/profile",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/projects/profile"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/tinku/.config/nvim",
                                         "path": "/home/tinku/.config/nvim",
                                         "scheme": "file"
@@ -154,7 +168,7 @@
                         "checked": true
                     },
                     {
-                        "id": "submenuitem.26",
+                        "id": "submenuitem.27",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -396,7 +410,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.17",
+                        "id": "submenuitem.18",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -436,13 +450,13 @@
                                     "checked": true
                                 },
                                 {
+                                    "id": "workbench.action.togglePanel",
+                                    "label": "Show &&Panel"
+                                },
+                                {
                                     "id": "workbench.action.toggleEditorVisibility",
                                     "label": "Show &&Editor Area",
                                     "checked": true
-                                },
-                                {
-                                    "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -478,7 +492,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.24",
+                        "id": "submenuitem.25",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -590,8 +604,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "Toggle &&Word Wrap",
-                        "checked": true
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -626,13 +640,14 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.29",
+                        "id": "submenuitem.30",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -681,7 +696,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.30",
+                        "id": "submenuitem.31",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -695,45 +710,54 @@
                                 },
                                 {
                                     "id": "workbench.action.focusThirdEditorGroup",
-                                    "label": "Group &&3"
+                                    "label": "Group &&3",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusFourthEditorGroup",
-                                    "label": "Group &&4"
+                                    "label": "Group &&4",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusFifthEditorGroup",
-                                    "label": "Group &&5"
+                                    "label": "Group &&5",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusNextGroup",
-                                    "label": "&&Next Group"
+                                    "label": "&&Next Group",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusPreviousGroup",
-                                    "label": "&&Previous Group"
+                                    "label": "&&Previous Group",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusLeftGroup",
-                                    "label": "Group &&Left"
+                                    "label": "Group &&Left",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusRightGroup",
-                                    "label": "Group &&Right"
+                                    "label": "Group &&Right",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusAboveGroup",
-                                    "label": "Group &&Above"
+                                    "label": "Group &&Above",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusBelowGroup",
-                                    "label": "Group &&Below"
+                                    "label": "Group &&Below",
+                                    "enabled": false
                                 }
                             ]
                         }
@@ -879,7 +903,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.25",
+                        "id": "submenuitem.26",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -1138,8 +1162,8 @@
                 "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
-                "label": "Ctrl+W",
-                "userSettingsLabel": "ctrl+w"
+                "label": "Alt+F4",
+                "userSettingsLabel": "alt+f4"
             },
             "workbench.action.quit": {
                 "label": "Ctrl+Q",
@@ -1498,17 +1522,39 @@
     "themeBackground": "#292828",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/tinku/.config/nvim",
-            "backupPath": "/home/tinku/.config/Code - Insiders/Backups/a78317761ef0fef631cded94e35b5f88",
+            "folder": "file:///home/tinku/Documents/projects/profile",
+            "backupPath": "/home/tinku/.config/Code - Insiders/Backups/7655e2008e6c1c4ae07cecc02feb94dc",
             "uiState": {
                 "mode": 0,
-                "x": 168,
+                "x": 48,
                 "y": 64,
-                "width": 1024,
-                "height": 660
+                "width": 670,
+                "height": 704
             }
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/tinku/Downloads"
+    "pickerWorkingDir": "/home/tinku/Documents/projects",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#a89984",
+            "background": "#292828",
+            "editorBackground": "#292828",
+            "titleBarBackground": "#292828",
+            "activityBarBackground": "#292828",
+            "sideBarBackground": "#292828",
+            "statusBarBackground": "#8fbcbb",
+            "statusBarNoFolderBackground": "#8fbcbb"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 0,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
 }

@@ -1,0 +1,7 @@
+[2021-05-09 09:36:19.005] [main] [info] update#setState idle
+[2021-05-09 09:36:22.412] [main] [error] file: Refused to load resource /snap/code-insiders/697/usr/share/code-insiders/resources/app/extensions/theme-seti/icons/seti.woff from file: protocol (original URL: file:///snap/code-insiders/697/usr/share/code-insiders/resources/app/extensions/theme-seti/icons/seti.woff)
+[2021-05-09 09:36:22.463] [main] [error] file: Refused to load resource /snap/code-insiders/697/usr/share/code-insiders/resources/app/extensions/markdown-language-features/media/preview-dark.svg from file: protocol (original URL: file:///snap/code-insiders/697/usr/share/code-insiders/resources/app/extensions/markdown-language-features/media/preview-dark.svg)
+[2021-05-09 09:36:49.007] [main] [info] update#setState checking for updates
+[2021-05-09 09:36:49.008] [main] [info] update#setState idle
+[2021-05-09 10:36:49.154] [main] [info] update#setState checking for updates
+[2021-05-09 10:36:49.335] [main] [info] update#setState idle

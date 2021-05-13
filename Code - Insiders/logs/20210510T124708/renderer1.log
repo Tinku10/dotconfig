@@ -1,0 +1,68 @@
+[2021-05-10 12:47:14.024] [renderer1] [error] Cannot have two contributions with the same id editor.contrib.acceptChangesButton: Error: Cannot have two contributions with the same id editor.contrib.acceptChangesButton
+    at new ln (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:652:76088)
+    at g._createInstance (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:625:1374)
+    at g.createInstance (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:625:793)
+    at i.createEditorControl (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2243:27035)
+    at i.createEditor (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2243:26646)
+    at i.create (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1438:57779)
+    at l.doCreateEditorPane (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1799:9752)
+    at l.doShowEditorPane (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1799:9327)
+    at l.openEditor (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1799:9081)
+    at file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2453:15947
+    at mi.doShowEditor (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2453:16126)
+    at mi.restoreEditors (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2453:9086)
+    at new mi (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2453:4164)
+    at g._createInstance (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:625:1374)
+    at g.createInstance (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:625:793)
+    at Function.createFromSerialized (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2453:4465)
+    at ai.doCreateGroupView (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2472:7761)
+    at Object.fromJSON (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2472:14771)
+    at c._deserializeNode (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:142:59361)
+    at file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:142:59204
+    at Array.map (<anonymous>)
+    at c._deserializeNode (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:142:59185)
+    at c._deserialize (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:142:59090)
+    at Function.deserialize (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:142:59024)
+    at Function.deserialize (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:142:67922)
+    at ai.doCreateGridControlWithState (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2472:14700)
+    at ai.doCreateGridControlWithPreviousState (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2472:14283)
+    at ai.doCreateGridControl (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2472:13860)
+    at ai.createContentArea (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2472:11939)
+    at ai.create (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:735:140270)
+    at file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2510:63731
+    at Array.forEach (<anonymous>)
+    at M.renderWorkbench (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2510:63638)
+    at file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2510:60823
+    at g.invokeFunction (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:625:319)
+    at M.startup (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2510:60454)
+    at E.open (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2640:30050)
+    at async file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/bootstrap-window.js:1:2841
+[2021-05-10 12:47:56.717] [renderer1] [error] Cannot read property 'children' of undefined: TypeError: Cannot read property 'children' of undefined
+    at n.get children [as children] (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1938:6236)
+    at u (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1938:7631)
+    at jt.refreshTOCTree (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2189:106346)
+    at jt.triggerSearch (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2189:108216)
+    at jt.onSearchInputChanged (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2189:106769)
+    at file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2189:93113
+    at l.fire (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:14638
+    at file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:580:14170
+    at l.fire (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at J.endDeferredEmit (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:589:30323)
+    at W.pushEditOperations (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:587:925)
+    at v.executeEdits (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:617:479)
+    at file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:618:3260
+    at i._withViewEventsCollector (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:618:5338)
+    at i._executeCursorEdit (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:618:3172)
+    at i.executeEdits (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:618:3225)
+    at ln.executeEdits (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:654:10787)
+    at b.setValue (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2099:15491)
+    at jt._setOptions (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2189:89440)
+    at jt.setInput (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2189:88695)
+    at async l.doSetInput (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1799:10549)
+    at async l.openEditor (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1799:9103)
+    at async file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2453:15922
+    at async ke.run (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2641:25273)
+    at async D.runAction (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:171:30945)
+    at async D.run (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:171:30844)
+    at async runAction (file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1438:34660)

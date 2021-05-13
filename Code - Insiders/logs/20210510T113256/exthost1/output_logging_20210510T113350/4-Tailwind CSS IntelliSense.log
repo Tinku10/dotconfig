@@ -1,0 +1,14 @@
+Found Tailwind CSS config file: /home/tinku/Documents/projects/profile/tailwind.config.js
+Loaded postcss v8.2.14: /home/tinku/Documents/projects/profile/node_modules/postcss
+Loaded tailwindcss v2.1.2: /home/tinku/Documents/projects/profile/node_modules/tailwindcss
+[Error - 11:58:09 am] Tailwind CSS: Can't resolve 'tailwindcss' in '/home/tinku/Documents/projects/profile'
+Error
+    at new g (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:54:283118)
+    at /home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:54:346140
+    at Generator.next (<anonymous>)
+    at o (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:54:341768)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Found Tailwind CSS config file: /home/tinku/Documents/projects/profile/tailwind.config.js
+Loaded postcss v7.0.35: /home/tinku/Documents/projects/profile/node_modules/postcss
+Loaded tailwindcss v2.1.2: /home/tinku/Documents/projects/profile/node_modules/tailwindcss

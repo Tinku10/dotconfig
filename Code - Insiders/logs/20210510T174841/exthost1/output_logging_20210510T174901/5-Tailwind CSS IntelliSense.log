@@ -1,0 +1,90 @@
+Found Tailwind CSS config file: /home/tinku/Documents/projects/profile/tailwind.config.js
+Loaded postcss v7.0.35: /home/tinku/Documents/projects/profile/node_modules/postcss
+Loaded tailwindcss v2.1.2: /home/tinku/Documents/projects/profile/node_modules/tailwindcss
+[Error - 6:14:39 pm] Tailwind CSS: font is not defined
+ReferenceError: font is not defined
+    at Object.<anonymous> (/home/tinku/Documents/projects/profile/tailwind.config.js:8:7)
+    at Module._compile (internal/modules/cjs/loader.js:1125:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1155:10)
+    at Module.load (internal/modules/cjs/loader.js:982:32)
+    at Module._load (internal/modules/cjs/loader.js:823:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at Module.T._require.t.require (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:54:283966)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at /home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:54:347903
+Found Tailwind CSS config file: /home/tinku/Documents/projects/profile/tailwind.config.js
+Loaded postcss v7.0.35: /home/tinku/Documents/projects/profile/node_modules/postcss
+Loaded tailwindcss v2.1.2: /home/tinku/Documents/projects/profile/node_modules/tailwindcss
+[Error - 6:14:46 pm] Tailwind CSS: fontFa is not defined
+ReferenceError: fontFa is not defined
+    at Object.<anonymous> (/home/tinku/Documents/projects/profile/tailwind.config.js:8:7)
+    at Module._compile (internal/modules/cjs/loader.js:1125:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1155:10)
+    at Module.load (internal/modules/cjs/loader.js:982:32)
+    at Module._load (internal/modules/cjs/loader.js:823:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at Module.T._require.t.require (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:54:283966)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at /home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:54:347903
+Found Tailwind CSS config file: /home/tinku/Documents/projects/profile/tailwind.config.js
+Loaded postcss v7.0.35: /home/tinku/Documents/projects/profile/node_modules/postcss
+Loaded tailwindcss v2.1.2: /home/tinku/Documents/projects/profile/node_modules/tailwindcss
+[Error - 6:14:47 pm] Tailwind CSS: fontFa is not defined
+ReferenceError: fontFa is not defined
+    at Object.<anonymous> (/home/tinku/Documents/projects/profile/tailwind.config.js:8:7)
+    at Module._compile (internal/modules/cjs/loader.js:1125:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1155:10)
+    at Module.load (internal/modules/cjs/loader.js:982:32)
+    at Module._load (internal/modules/cjs/loader.js:823:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at Module.T._require.t.require (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:54:283966)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at /home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:54:347903
+Found Tailwind CSS config file: /home/tinku/Documents/projects/profile/tailwind.config.js
+Loaded postcss v7.0.35: /home/tinku/Documents/projects/profile/node_modules/postcss
+Loaded tailwindcss v2.1.2: /home/tinku/Documents/projects/profile/node_modules/tailwindcss
+[Error - 6:14:58 pm] Tailwind CSS: Unexpected token (10:6)
+SyntaxError: Unexpected token (10:6)
+    at t.J.raise (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:111415)
+    at t.$.unexpected (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:66611)
+    at t.Q.parsePropertyValue (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:106517)
+    at t.Q.parseProperty (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:105517)
+    at t.Q.parseObj (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:104480)
+    at t.Q.parseExprAtom (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:98844)
+    at t.value (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:36130)
+    at t.Q.parseExprSubscripts (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:94566)
+    at t.Q.parseMaybeUnary (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:94135)
+    at t.parseMaybeUnary (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:42821)
+[Error - 6:14:58 pm] Tailwind CSS: Unexpected token (10:6)
+SyntaxError: Unexpected token (10:6)
+    at t.J.raise (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:111415)
+    at t.$.unexpected (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:66611)
+    at t.Q.parsePropertyValue (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:106517)
+    at t.Q.parseProperty (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:105517)
+    at t.Q.parseObj (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:104480)
+    at t.Q.parseExprAtom (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:98844)
+    at t.value (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:36130)
+    at t.Q.parseExprSubscripts (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:94566)
+    at t.Q.parseMaybeUnary (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:94135)
+    at t.parseMaybeUnary (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:1:42821)
+Found Tailwind CSS config file: /home/tinku/Documents/projects/profile/tailwind.config.js
+Loaded postcss v7.0.35: /home/tinku/Documents/projects/profile/node_modules/postcss
+Loaded tailwindcss v2.1.2: /home/tinku/Documents/projects/profile/node_modules/tailwindcss
+[Error - 6:14:59 pm] Tailwind CSS: Jet is not defined
+ReferenceError: Jet is not defined
+    at Object.<anonymous> (/home/tinku/Documents/projects/profile/tailwind.config.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:1125:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1155:10)
+    at Module.load (internal/modules/cjs/loader.js:982:32)
+    at Module._load (internal/modules/cjs/loader.js:823:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at Module.T._require.t.require (/home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:54:283966)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at /home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2/dist/server/index.js:54:347903
+Found Tailwind CSS config file: /home/tinku/Documents/projects/profile/tailwind.config.js
+Loaded postcss v7.0.35: /home/tinku/Documents/projects/profile/node_modules/postcss
+Loaded tailwindcss v2.1.2: /home/tinku/Documents/projects/profile/node_modules/tailwindcss

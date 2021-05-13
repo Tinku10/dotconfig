@@ -1,0 +1,25 @@
+[2021-05-11 14:01:13.334] [sharedprocess] [info] Installing extension: bradlc.vscode-tailwindcss
+[2021-05-11 14:01:14.661] [sharedprocess] [info] Downloaded extension: bradlc.vscode-tailwindcss /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/bradlc.vscode-tailwindcss-0.6.3
+[2021-05-11 14:01:14.722] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.3f511253-b7ca-47a9-972a-31ff83311f17: bradlc.vscode-tailwindcss
+[2021-05-11 14:01:14.835] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.3
+[2021-05-11 14:01:14.837] [sharedprocess] [info] Installation completed. bradlc.vscode-tailwindcss
+[2021-05-11 14:01:15.203] [sharedprocess] [info] Extensions installed successfully: bradlc.vscode-tailwindcss
+[2021-05-11 14:01:42.683] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-05-11 14:01:48.298] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-11 14:01:49.224] [sharedprocess] [info] Downloaded extension: ms-python.python /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/ms-python.python-2021.5.829140558
+[2021-05-11 14:01:53.993] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.fe54f503-0cb3-48bf-ad3b-6a812a827e6f: ms-python.python
+[2021-05-11 14:01:54.110] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/ms-python.python-2021.5.829140558
+[2021-05-11 14:01:54.114] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-05-11 14:01:54.712] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-05-11 14:01:54.712] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-05-11 14:02:04.942] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.5.1
+[2021-05-11 14:02:07.845] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.6.828932339
+[2021-05-11 14:02:08.266] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.2a8c4376-656f-4b97-9619-0363150e1705: ms-python.vscode-pylance
+[2021-05-11 14:02:08.320] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/ms-python.vscode-pylance-2021.5.1
+[2021-05-11 14:02:08.323] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2021-05-11 14:02:08.924] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-05-11 14:02:09.495] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.bc89c36b-7fb2-4de6-ba6c-5b5086f7ad73: ms-toolsai.jupyter
+[2021-05-11 14:02:09.966] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/ms-toolsai.jupyter-2021.6.828932339
+[2021-05-11 14:02:09.970] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2021-05-11 14:02:10.207] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-05-11 14:02:10.211] [sharedprocess] [info] Extensions installed successfully: ms-python.python

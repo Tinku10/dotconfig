@@ -1,0 +1,69 @@
+[2021-05-10 08:31:54.735] [exthost] [info] extension host started
+[2021-05-10 08:31:54.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-10 08:31:54.852] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-10 08:31:54.987] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-05-10 08:31:54.988] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-05-10 08:31:55.089] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-05-10 08:31:55.089] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/markdown-language-features/dist/extension
+[2021-05-10 08:31:55.299] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":false,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"onLanguage:markdown"}
+[2021-05-10 08:31:55.300] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tinku/.vscode-insiders/extensions/yzhang.markdown-all-in-one-3.4.0/dist/extension
+[2021-05-10 08:31:55.561] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-10 08:31:55.561] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-10 08:31:55.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-10 08:31:55.616] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/git/dist/main
+[2021-05-10 08:31:55.794] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material {"startup":true,"extensionId":{"value":"sainnhe.gruvbox-material","_lower":"sainnhe.gruvbox-material"},"activationEvent":"*"}
+[2021-05-10 08:31:55.795] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tinku/.vscode-insiders/extensions/sainnhe.gruvbox-material-6.4.1/out/extension.js
+[2021-05-10 08:31:56.072] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-05-10 08:31:56.072] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tinku/.vscode-insiders/extensions/vscodevim.vim-1.20.2/out/extension
+[2021-05-10 08:31:57.124] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-10 08:31:57.125] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/github/dist/extension.js
+[2021-05-10 08:31:57.313] [exthost] [info] eager extensions activated
+[2021-05-10 08:31:57.314] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-10 08:31:57.314] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-10 08:31:57.733] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-05-10 08:31:57.733] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-05-10 08:31:57.741] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-05-10 08:31:57.741] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-05-10 08:31:57.839] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-05-10 08:31:57.840] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2021-05-10 08:31:57.883] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-10 08:31:57.883] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-10 08:31:57.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-10 08:31:57.916] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-10 08:31:57.934] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-10 08:31:57.935] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-10 08:31:58.092] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-10 08:31:58.092] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code-insiders/707/usr/share/code-insiders/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-10 08:40:49.111] [exthost] [error] [yzhang.markdown-all-in-one] provider FAILED
+[2021-05-10 08:40:49.174] [exthost] [error] TypeError: Cannot read property 'document' of undefined
+    at f (/home/tinku/.vscode-insiders/extensions/yzhang.markdown-all-in-one-3.4.0/dist/extension.js:1:296467)
+    at p (/home/tinku/.vscode-insiders/extensions/yzhang.markdown-all-in-one-3.4.0/dist/extension.js:1:293567)
+    at g (/home/tinku/.vscode-insiders/extensions/yzhang.markdown-all-in-one-3.4.0/dist/extension.js:1:295259)
+    at v.provideCodeLenses (/home/tinku/.vscode-insiders/extensions/yzhang.markdown-all-in-one-3.4.0/dist/extension.js:1:298023)
+    at a.provideCodeLenses (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:159293)
+    at /snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:182334
+    at Se._withAdapter (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:180928)
+    at Se.$provideCodeLenses (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:182310)
+    at a._doInvokeHandler (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:91:12836)
+    at a._invokeHandler (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:91:12520)
+    at a._receiveRequest (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:91:11136)
+    at a._receiveOneMessage (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:91:9973)
+    at /snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:91:8074
+    at fire (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at S.fire (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:15662)
+    at /snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:29890
+    at fire (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at S.fire (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:15662)
+    at t._receiveMessage (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:20920)
+    at /snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:17806
+    at fire (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at l.acceptChunk (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:13027)
+    at /snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:12375
+    at Socket._ (/snap/code-insiders/707/usr/share/code-insiders/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:13321)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-05-10 10:05:03.257] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-10 10:05:04.276] [exthost] [info] exiting with code 0

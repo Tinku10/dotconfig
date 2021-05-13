@@ -1,0 +1,25 @@
+[2021-05-09 09:36:29.131] [sharedprocess] [info] Installing extension: angular.ng-template
+[2021-05-09 09:36:29.132] [sharedprocess] [info] Installing extension: sainnhe.gruvbox-material
+[2021-05-09 09:36:29.134] [sharedprocess] [info] Installing extension: sumneko.lua
+[2021-05-09 09:36:29.135] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-05-09 09:36:30.105] [sharedprocess] [info] Downloaded extension: sainnhe.gruvbox-material /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/sainnhe.gruvbox-material-6.4.1
+[2021-05-09 09:36:30.227] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.e4fba5cc-5d1d-4f74-b12b-2ee6e4f1a391: sainnhe.gruvbox-material
+[2021-05-09 09:36:30.261] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/sainnhe.gruvbox-material-6.4.1
+[2021-05-09 09:36:30.263] [sharedprocess] [info] Installation completed. sainnhe.gruvbox-material
+[2021-05-09 09:36:30.331] [sharedprocess] [info] Extensions installed successfully: sainnhe.gruvbox-material
+[2021-05-09 09:36:31.404] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/vscodevim.vim-1.20.2
+[2021-05-09 09:36:31.582] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.005ecee2-69e8-42fb-bd88-a62b0de54a29: vscodevim.vim
+[2021-05-09 09:36:31.649] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/vscodevim.vim-1.20.2
+[2021-05-09 09:36:31.652] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-05-09 09:36:31.796] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-05-09 09:36:33.202] [sharedprocess] [info] Downloaded extension: sumneko.lua /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/sumneko.lua-1.21.1
+[2021-05-09 09:36:34.075] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.2fed6d07-5591-4dbb-881f-028336ac5482: sumneko.lua
+[2021-05-09 09:36:34.120] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/sumneko.lua-1.21.1
+[2021-05-09 09:36:34.123] [sharedprocess] [info] Installation completed. sumneko.lua
+[2021-05-09 09:36:34.192] [sharedprocess] [info] Extensions installed successfully: sumneko.lua
+[2021-05-09 09:36:38.074] [sharedprocess] [info] Downloaded extension: angular.ng-template /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/angular.ng-template-11.2.14
+[2021-05-09 09:36:39.356] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.7885ec94-6c4a-41e9-88be-60b7bc8ff2a8: angular.ng-template
+[2021-05-09 09:36:39.725] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/angular.ng-template-11.2.14
+[2021-05-09 09:36:39.727] [sharedprocess] [info] Installation completed. angular.ng-template
+[2021-05-09 09:36:39.851] [sharedprocess] [info] Extensions installed successfully: angular.ng-template
+[2021-05-09 09:37:04.879] [sharedprocess] [info] Starting to clean up unused language packs.

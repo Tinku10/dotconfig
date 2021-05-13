@@ -1,7 +1,0 @@
-[2021-04-09 19:59:41.846] [sharedprocess] [info] Installing extension: sumneko.lua
-[2021-04-09 19:59:44.112] [sharedprocess] [info] Downloaded extension: sumneko.lua /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/sumneko.lua-1.20.3
-[2021-04-09 19:59:45.070] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.5496c3fc-cc85-4dbb-860a-fc1b5521d9e5: sumneko.lua
-[2021-04-09 19:59:45.108] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/sumneko.lua-1.20.3
-[2021-04-09 19:59:45.111] [sharedprocess] [info] Installation completed. sumneko.lua
-[2021-04-09 19:59:45.145] [sharedprocess] [info] Extensions installed successfully: sumneko.lua
-[2021-04-09 20:00:12.278] [sharedprocess] [info] Starting to clean up unused language packs.

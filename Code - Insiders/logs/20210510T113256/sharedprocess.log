@@ -1,0 +1,14 @@
+[2021-05-10 11:33:14.934] [sharedprocess] [info] Deleted from disk sainnhe.gruvbox-material /home/tinku/.vscode-insiders/extensions/sainnhe.gruvbox-material-6.4.1
+[2021-05-10 11:33:42.157] [sharedprocess] [info] Installing extension: bradlc.vscode-tailwindcss
+[2021-05-10 11:33:43.414] [sharedprocess] [info] Downloaded extension: bradlc.vscode-tailwindcss /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/bradlc.vscode-tailwindcss-0.6.2
+[2021-05-10 11:33:43.466] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.f5301552-46e2-436b-94c8-a4a7a1c42112: bradlc.vscode-tailwindcss
+[2021-05-10 11:33:43.504] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/bradlc.vscode-tailwindcss-0.6.2
+[2021-05-10 11:33:43.510] [sharedprocess] [info] Installation completed. bradlc.vscode-tailwindcss
+[2021-05-10 11:33:43.550] [sharedprocess] [info] Extensions installed successfully: bradlc.vscode-tailwindcss
+[2021-05-10 11:33:51.041] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-10 11:34:18.398] [sharedprocess] [info] Installing extension: octref.vetur
+[2021-05-10 11:34:38.232] [sharedprocess] [info] Downloaded extension: octref.vetur /home/tinku/.config/Code - Insiders/CachedExtensionVSIXs/octref.vetur-0.33.1
+[2021-05-10 11:34:46.659] [sharedprocess] [info] Extracted extension to /home/tinku/.vscode-insiders/extensions/.cccb8750-4fee-425a-a06f-8e0b0962c953: octref.vetur
+[2021-05-10 11:34:46.768] [sharedprocess] [info] Renamed to /home/tinku/.vscode-insiders/extensions/octref.vetur-0.33.1
+[2021-05-10 11:34:46.773] [sharedprocess] [info] Installation completed. octref.vetur
+[2021-05-10 11:34:46.816] [sharedprocess] [info] Extensions installed successfully: octref.vetur
