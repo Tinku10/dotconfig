@@ -85,8 +85,20 @@ d/home/tinku/Documents/CP/node_modules
 	clangd
 1
 d/home/tinku/Documents/CP
-	a.cpp
-5
+	..
+0
+d/home/tinku/Documents
+	CP
+1
+d/home/tinku
+	Documents
+2
+d/home/tinku/Documents
+	CP
+1
+d/home/tinku/Documents/CP
+	b.cpp
+7
 d
 
 # Right window history (oldest to newest):
@@ -96,6 +108,8 @@ D/home/tinku
 D
 
 # Command line history (oldest to newest):
+:history
+:nvim a.cpp
 :q
 
 # Search history (oldest to newest):

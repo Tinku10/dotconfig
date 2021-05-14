@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/home/tinku/.cache/ibus/dbus-Ni44QqvG,guid=777b3ce649676545e0679e95609c8ef8
-IBUS_DAEMON_PID=1877
+IBUS_ADDRESS=unix:abstract=/home/tinku/.cache/ibus/dbus-vO3wQ1pN,guid=5cd5d57f6c60b2d9a3ae762e609ddaa7
+IBUS_DAEMON_PID=1820
