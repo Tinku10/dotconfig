@@ -242,6 +242,8 @@ bindsym Print exec screenshot
 # exec_always --no-startup-id xrandr --output HDMI-0 --off --output DVI-I-1 --off --output DVI-I-0 --off --output DVI-I-3 --mode 1920x1080 --pos 0x0 --rotate normal --output DVI-I-2 --mode 1920x1080 --pos 1920x0 --rotate normal
 # exec --no-startup-id spotify
 
+# Set wallpaper
+exec_always --no-startup-id bash ~/.i3/get-wallpaper.sh
 # Keys
 exec_always xmodmap -e "clear lock" #disable caps lock switch
 # exec_always xmodmap -e "keysym Caps_Lock = Escape" #set caps_lock as escape
